@@ -2,6 +2,9 @@
 
 ## Multiband Audio Analyzer Patch (Logarithmic Scale)
 
+![Use Case in plugdata](media/image.png)
+
+
 This patch is designed to create a multiband audio analyzer with a logarithmic frequency distribution. It divides the input audio signal into a number of user-defined frequency bands and measures the intensity (amplitude) of sound in each band. The patch is adaptive to the number of bands and provides a list of intensity values for each frequency band.
 
 ## Features
